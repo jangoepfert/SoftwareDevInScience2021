@@ -12,17 +12,17 @@
 
 4. [x] Apply any changes you like and add them to your local branch.
 
-5. Commit your changes and push them back to your GitHub repository.
+5. [x] Commit your changes and push them back to your GitHub repository.
 
-6. Issue a pull request against the workshop repository.
+6. [x] Issue a pull request against the workshop repository.
 
 ## Exercise II: Work in groups. Choose a developer to collaborate with!
 
-1. Create a new local branch to work on.
+1. [x] Create a new local branch to work on.
 
-2. Apply any changes you like and add them to your local branch.
+2. [x] Apply any changes you like and add them to your local branch.
 
-3. Commit your changes and push them back to your GitHub repository.
+3. [x] Commit your changes and push them back to your GitHub repository.
 
 4. Issue a pull request against your collaborator’s branch.
 
